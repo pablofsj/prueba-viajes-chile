@@ -1,0 +1,28 @@
+body {
+    font-family: 'Space Grotesk', sans-serif;
+    background-color: rgb(245, 245, 225)
+}
+
+.bg-silver{
+    background-color: rgb(255, 255, 240)
+}
+
+.navbar-brand img, footer img {
+    height: 50px;
+    width: 50px;
+}
+
+.card-img-top {
+    height: 202px;
+}
+
+
+.navbar-brand, h2 {
+    font-family: 'Righteous', sans-serif;
+    font-weight: 400;
+}
+
+footer a {
+    color: black;
+    text-decoration: none;
+}
